@@ -5,7 +5,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=agentnuclear.agentnuclear)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=agentnuclear&show_icons=true&theme=tokyonight)
+
 
 
 <!--
